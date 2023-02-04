@@ -10,8 +10,3 @@ def bubble_sort(list_to_sort):
             break
         n -= 1
     return list_to_sort
-
-
-num_list = [7,2,97,32,6,1,5]
-
-print(bubble_sort(num_list))
